@@ -6,3 +6,10 @@ My personal solution for an updated version of [cat clicker] (https://github.com
 
 #####Features
 Languages: Knockout JS
+
+
+#####Instructions
+
+-View live version of the project [here](http://cdn.rawgit.com/anavasquez84/ko-cat-clickr/master/index.html). 
+
+-Cat clickr demonstrates mastery of MVMV design by featuring 5 individual cats with individual clickers, names, and adorable narco-inspired nicknames. 
